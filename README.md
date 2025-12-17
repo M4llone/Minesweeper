@@ -1,5 +1,5 @@
 # Minesweeper
 Инструкция для Windowns
--скачать файл [text](Сапер/Mineswepper.exe)
--запустить
+- скачать файл [Mineswepper.exe](Сапер/Mineswepper.exe)
+- запустить
 
