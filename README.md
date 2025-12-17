@@ -1,2 +1,5 @@
 # Minesweeper
-Моя программа на Python игры сапер
+Инструкция для Windowns
+-скачать файл [text](Сапер/Mineswepper.exe)
+-запустить
+
