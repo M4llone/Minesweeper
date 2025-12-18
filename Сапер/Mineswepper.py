@@ -16,9 +16,9 @@ count_mine = 10
 label_mine = tk.Label(root, text=f'Осталось мин: {count_mine}', font=("Arial", 20))
 label_mine.grid(row=0, column=0, columnspan=5, sticky="nsew")
 
-### ИЗМЕНЕНО: флаг первого клика и пустое поле
+#Флаг первого клика и пустое поле
 first_click = True
-board = [[0 for _ in range(10)] for _ in range(10)]
+board = [[0 for i in range(10)] for i in range(10)]
 
 
 #создаем игровое поле
